@@ -1,5 +1,5 @@
 #ignor configure.inr file 
-configure.ini 
+config.ini 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
